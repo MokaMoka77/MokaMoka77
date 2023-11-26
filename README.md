@@ -9,4 +9,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![image](https://github.com/MokaMoka77/MokaMoka77/assets/138640508/9069e0e3-a0a6-40ec-84c1-16843eb9a6e3)
+
